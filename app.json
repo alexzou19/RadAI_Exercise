@@ -1,0 +1,17 @@
+{
+  "name": "Create New Associated Deal Project",
+  "description": "UI extension to create a new associated deal in HubSpot",
+  "uid":"new_associated_deal"
+  "scopes": ["crm.objects.contacts.read","crm.objects.contacts.write","crm.objects.deals.read",
+    "crm.objects.deals.write"],
+  "public": false,
+  "extensions": {
+    "crm": {
+      "cards": [
+	{
+	  "file":"./associated-deals-card.json"
+	}
+       ]
+     }
+  }
+}

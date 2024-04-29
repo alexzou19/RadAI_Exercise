@@ -1,0 +1,8 @@
+{
+  "appFunctions": {
+    "new-associated-deal": {
+      "file": "new-deal.js",
+      "secrets": []
+    }
+  }
+}
