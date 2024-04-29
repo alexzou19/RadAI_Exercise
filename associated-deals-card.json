@@ -1,0 +1,12 @@
+{
+  "type": "crm-card",
+  "data": {
+    "title": "Create New Associated Deal Project",
+    "uid": "new_associated_deal",
+    "location": "crm.record.tab",
+    "module": {
+      "file": "NewAssociatedDeal.jsx"
+    },
+    "objectTypes": [{ "name": "deals" }]
+  }
+}
